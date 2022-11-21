@@ -13,3 +13,4 @@ document.getElementById("searchInput").addEventListener("keyup", function(event)
     }
   }
 }) 
+
