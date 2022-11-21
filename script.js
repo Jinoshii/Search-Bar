@@ -12,5 +12,9 @@ document.getElementById("searchInput").addEventListener("keyup", function(event)
       allNamesDOMCollection[counter].style.display = "none"
     }
   }
+<<<<<<< HEAD
 }) 
 
+=======
+}) 
+>>>>>>> b6d0a5815b7091e9ca4f37c7bb9d9d9a44e590f8
